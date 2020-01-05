@@ -1,6 +1,6 @@
 # Use this space to code along with the readme
 
-def phrase 
+def phrase
   puts "Hello World!"
 end
 
